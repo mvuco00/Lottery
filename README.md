@@ -9,5 +9,5 @@
 
 Frontend application for ethereum project (interaction with ethereum blockchain network). Smart contract can be found here [eth-loto](https://github.com/mvuco00/eth-loto).
 
-An user can enter an lottery competition by sending some value od ether to the network. The manager can pick the winner.
+An user can enter an lottery competition by sending some value of ether to the network. The manager can pick the winner.
 
